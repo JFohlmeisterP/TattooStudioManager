@@ -1,1 +1,1 @@
-# FinancialPlannner
+# Financial Plannner
