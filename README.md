@@ -1,1 +1,1 @@
-# Financial Plannner
+# Tattoo Studio Manager
